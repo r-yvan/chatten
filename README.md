@@ -1,4 +1,4 @@
-# node-js-real-time-chat-app
+# chatten
 
 To install dependencies:
 
